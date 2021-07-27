@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deploy react using CI/CD
+          Deploy react using CI-CD
         </a>
       </header>
     </div>
