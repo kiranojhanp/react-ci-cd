@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-ci-cd/static/css/main.8ae26d05.chunk.css",
-    "main.js": "/react-ci-cd/static/js/main.2493507b.chunk.js",
-    "main.js.map": "/react-ci-cd/static/js/main.2493507b.chunk.js.map",
+    "main.css": "/react-ci-cd/static/css/main.5e3a4f1d.chunk.css",
+    "main.js": "/react-ci-cd/static/js/main.71fe2bb2.chunk.js",
+    "main.js.map": "/react-ci-cd/static/js/main.71fe2bb2.chunk.js.map",
     "runtime-main.js": "/react-ci-cd/static/js/runtime-main.38bf2c90.js",
     "runtime-main.js.map": "/react-ci-cd/static/js/runtime-main.38bf2c90.js.map",
-    "static/js/2.7d79193c.chunk.js": "/react-ci-cd/static/js/2.7d79193c.chunk.js",
-    "static/js/2.7d79193c.chunk.js.map": "/react-ci-cd/static/js/2.7d79193c.chunk.js.map",
+    "static/js/2.f5b65f66.chunk.js": "/react-ci-cd/static/js/2.f5b65f66.chunk.js",
+    "static/js/2.f5b65f66.chunk.js.map": "/react-ci-cd/static/js/2.f5b65f66.chunk.js.map",
     "static/js/3.d896aef9.chunk.js": "/react-ci-cd/static/js/3.d896aef9.chunk.js",
     "static/js/3.d896aef9.chunk.js.map": "/react-ci-cd/static/js/3.d896aef9.chunk.js.map",
     "index.html": "/react-ci-cd/index.html",
-    "static/css/main.8ae26d05.chunk.css.map": "/react-ci-cd/static/css/main.8ae26d05.chunk.css.map",
-    "static/js/2.7d79193c.chunk.js.LICENSE.txt": "/react-ci-cd/static/js/2.7d79193c.chunk.js.LICENSE.txt"
+    "static/css/main.5e3a4f1d.chunk.css.map": "/react-ci-cd/static/css/main.5e3a4f1d.chunk.css.map",
+    "static/js/2.f5b65f66.chunk.js.LICENSE.txt": "/react-ci-cd/static/js/2.f5b65f66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.38bf2c90.js",
-    "static/js/2.7d79193c.chunk.js",
-    "static/css/main.8ae26d05.chunk.css",
-    "static/js/main.2493507b.chunk.js"
+    "static/js/2.f5b65f66.chunk.js",
+    "static/css/main.5e3a4f1d.chunk.css",
+    "static/js/main.71fe2bb2.chunk.js"
   ]
 }
