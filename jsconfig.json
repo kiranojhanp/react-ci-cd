@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"paths": {
+			"@components/*": ["src/components/*"],
+			"@screens/*": ["src/screens/*"]
+		}
+	},
+	"typeAcquisition": {
+		"exclude": ["dotenv", "harmony-reflect", "node_modules"]
+	},
+	"exclude": ["dist", "node_modules"]
+}

@@ -1,10 +1,26 @@
+import Col from "@components/Col";
+import Box from "@components/Box";
+import Text from "@components/Text";
+import Spacer from "@components/Spacer";
 
 function App() {
-  return (
-    <div className='bg-gray-700 h-screen w-full flex justify-center items-center'>
-      <h1 className='text-5xl text-white font-semibold font-mono'>Enjoy Hacking!</h1>
-    </div>
-  );
+	return (
+		<Box classes="flex items-center justify-center h-screen bg-gray-700">
+			<Col>
+				<Text classes="font-mono text-5xl font-semibold text-white">
+					Enjoy Hacking!
+				</Text>
+				<Spacer py="py-4" />
+				<Text classes="text-base text-white">
+					Edit
+					<Text classes="font-mono mx-2 px-3 py-1 mx-1 text-sm text-gray-700 bg-yellow-300">
+						App.js
+					</Text>
+					to get started
+				</Text>
+			</Col>
+		</Box>
+	);
 }
 
 export default App;
