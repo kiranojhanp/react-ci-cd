@@ -16,5 +16,5 @@ Red.args = {
 
 export const Blue = Template.bind({});
 Blue.args = {
-	color: "blue",
+	color: "purple",
 };
